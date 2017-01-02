@@ -1,9 +1,9 @@
 <?php
 ini_set( "display_errors", true );
 date_default_timezone_set( "Europe/Kiev" );  // http://www.php.net/manual/en/timezones.php
-define( "DB_DSN", "mysql:host=localhost;dbname=cms" );
-define( "DB_USERNAME", "root" );
-define( "DB_PASSWORD", "" );
+define( "DB_DSN", "mysql:mysql.hostinger.com.ua;dbname=u879646543_cms" );
+define( "DB_USERNAME", "u879646543_ivan" );
+define( "DB_PASSWORD", "Zxcv!234" );
 define( "CLASS_PATH", "classes" );
 define( "TEMPLATE_PATH", "templates" );
 define( "HOMEPAGE_NUM_ARTICLES", 5 );
